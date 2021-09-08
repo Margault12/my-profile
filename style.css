@@ -1,0 +1,65 @@
+body {
+	background:white;
+}
+
+h1 { 
+	font-family:'Kaisei HarunoUmi', serif;
+	color: palevioletred;
+	text-align: center;
+}
+ 	
+h2 {
+ 	font-family:'Kaisei HarunoUmi', serif ;
+ 	color: palevioletred;
+ 	text-align: center;
+ 	font-size: 25px;
+}
+       
+h3 {
+	font-size: 20px;
+	color: palevioletred;
+	text-align: center
+} 
+
+h4 {	
+	text-align:center;
+	color:palevioletred;
+	text-decoration: bold;
+}
+p { 
+	color:palevioletred;
+	text-align: center;
+  }
+
+#pic { 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+}
+
+
+div { 	
+	width: 400px;
+	margin: 10px auto;
+	background:whitesmoke;
+	border-radius: 5px;
+	box-shadow:0 15px 35px rgba(50,50,93,.1);
+ 	border-top: 1px solid white;
+ 	border-right:4x solid white;     
+ 	border-bottom:2 solid white;
+	 border-left: 4x solid white;
+	box-shadow: 2px 2px 3px whitesmoke; 
+}
+			
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+@media (min-width: 500px) {}
+
+div  {
+	width:600px
+
+ }
